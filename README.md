@@ -6,11 +6,11 @@ rest api for repository info
 
 # Use
 
-Hit the following endpoint `https://repo-info-api.herokuapp.com/repoinfo?query=<YOUR-USERNAME>/<REPO-NAME>`
+Hit the following endpoint `http://localhost:8080/repoinfo?query=<YOUR-USERNAME>/<REPO-NAME>`
 
 ## Example
 
-Endpoint: `https://repo-info-api.herokuapp.com/repoinfo?query=yuvrajvirdi/movie-recommender`
+Endpoint: `http://localhost:8080/repoinfo?query=yuvrajvirdi/movie-recommender`
 
 ```java
 {
